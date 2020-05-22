@@ -1,5 +1,4 @@
 import React from "react";
-import MapIcon from "../../icons/map";
 import styles from "./profile.module.scss";
 
 function locationAndCountryText(location, country) {
@@ -24,7 +23,6 @@ function locationAndCountry(location, country) {
           paddingLeft: "20px"
         }}
       >
-        <MapIcon style={{ marginBottom: "-2px", marginRight: "2px" }} size={14} />
         {locationAndCountryText(location, country)}
       </p>
     );
