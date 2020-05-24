@@ -1,6 +1,6 @@
 {
-  "name": "mask-makers",
-  "description": "A directory for buyers to discover sewists who make reusable face masks.",
+  "name": "asian-merchants-at-shopify",
+  "description": "A directory for buyers to discover Asian merchants with Shopify stores. Started by Shopify's Asian Employee Resource Group, in honor of Asian Heritage Month.",
   "license": "MIT",
   "scripts": {
     "start": "gatsby develop",
