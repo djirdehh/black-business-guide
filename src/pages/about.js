@@ -7,7 +7,7 @@ import Layout from "../components/layout";
 
 const About = () => (
   <Layout>
-    <Helmet title="Celebrating Asian Merchants at Shopify: About" />
+    <Helmet title="Asian Heritage Month Marketplace: About" />
     <div className={styles.container}>
       <div className={styles.sidebar}>
         <Nav theme="light" />
