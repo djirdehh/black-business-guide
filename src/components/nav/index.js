@@ -27,7 +27,7 @@ const Nav = () => {
           rel="noopener noreferrer"
           className={styles.link}
         >
-          Nominate
+          Submit your store
         </a>
       </nav>
     </div>

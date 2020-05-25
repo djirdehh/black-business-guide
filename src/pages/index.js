@@ -500,6 +500,8 @@ const App = () => {
               onClick={() => {
                 setSelectedCountryFilter(null);
                 setSelectedLocationFilters([]);
+                setSelectedCategoriesFilters([]);
+                setSelectedFeaturesFilter([]);
                 setCurrentPage(1);
               }}
               className={styles.filterClear}
