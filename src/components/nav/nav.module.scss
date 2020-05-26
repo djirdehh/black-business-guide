@@ -4,7 +4,7 @@
   padding: var(--page-shell-padding);
   padding-bottom: 8px;
   font-family: $pt-mono;
-  color: var(--text);
+  color: #fff;
   background-color: $primary-blue;
   position: relative;
   width: 310px;
@@ -39,6 +39,8 @@
 }
 
 header .link {
+  display: block;
+  margin-bottom: 15px;
   &:focus {
     text-decoration: none;
 
