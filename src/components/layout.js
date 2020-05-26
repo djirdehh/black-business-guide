@@ -18,7 +18,7 @@ const Layout = ({ children }) => (
           content:
             "A directory of Asian Shopify merchants."
         },
-        // commenting out until we have a preview img
+        // commenting out until we have a domain
         // {
         //   property: "og:image",
         //   content: "https://maskmakers.club/opengraph.png"
