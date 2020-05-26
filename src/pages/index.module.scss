@@ -70,7 +70,7 @@
 .filterCategoryTitle {
   font-size: 16px;
   font-weight: 600;
-  font-family: $pt-mono;
+  font-family: $body-content;
   padding: 24px 0px 8px;
 }
 
@@ -92,7 +92,7 @@
   border: none;
   padding: calc(var(--page-shell-padding) / 4);
   margin: calc(var(--page-shell-padding) / 8);
-  font-family: $pt-mono;
+  font-family: $body-content;
   color: var(--text);
   line-height: 1;
   border-radius: 2px;

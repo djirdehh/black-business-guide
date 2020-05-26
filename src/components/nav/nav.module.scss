@@ -3,7 +3,7 @@
 .container {
   padding: var(--page-shell-padding);
   padding-bottom: 8px;
-  font-family: $pt-mono;
+  font-family: $body-content;
   color: #fff;
   background-color: $primary-blue;
   position: relative;
@@ -22,7 +22,7 @@
 }
 
 .link {
-  font-family: $pt-mono;
+  font-family: $body-content;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -71,7 +71,7 @@ header .link {
   }
 
   .celebratingContainer {
-    font-family: $pt-mono;
+    font-family: $body-content;
     font-size: 16px;
     line-height: 35px;
     letter-spacing: 2px;
