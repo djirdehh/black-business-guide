@@ -18,7 +18,7 @@
   transition: all 0.5s ease;
   width: 100%;
   color: $primary-blue;
-  font-family: $pt-mono;
+  font-family: $body-content;
   @media (min-width: $desktop) {
     height: 100vh;
   }
@@ -38,7 +38,7 @@
 }
 
 h2.subheading {
-  font-family: $pt-mono;
+  font-family: $body-content;
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
@@ -53,7 +53,7 @@ h2.subheading {
 }
 
 .about {
-  font-family: $pt-mono;
+  font-family: $body-content;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -63,4 +63,48 @@ h2.subheading {
   a {
     color: #3B477E;
   }
+}
+
+h2.subheading,
+h2.stylizedSubheading {
+  font-style: normal;
+  font-weight: 600;
+}
+
+h2.subheading {
+  font-family: $body-content;
+  font-size: 16px;
+  line-height: 16px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+  margin-top: 35px;
+}
+
+h2.stylizedSubheading {
+  font-family: $heading;
+  font-size: 36px;
+  line-height: 36px;
+  margin-bottom: 50px;
+}
+
+.aboutContainer {
+  max-width: 510px;
+}
+
+.about {
+  font-family: $body-content;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 23px;
+  margin-bottom: 15px;
+
+  a {
+    color: #3B477E;
+  }
+}
+
+.emphasize {
+  font-weight: 600;
 }
