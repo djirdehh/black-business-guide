@@ -15,6 +15,7 @@ const Nav = () => {
             </h1>
           </div>
         </Link>
+        <p>Shopify’s Asian Employee Resource Group presents a marketplace to celebrate Asian Pacific American Heritage Month.</p>
       </header>
       <nav className={styles.links}>
         <Link to="/about" className={styles.link}>
