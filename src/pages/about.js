@@ -14,7 +14,7 @@ const About = () => (
       </div>
       <div className={styles.main}>
         <div className={styles.aboutContainer}>
-          <h2 className={styles.stylizedSubheading}>Shopify's mission is to make commerce better for everyone.</h2>
+          <h2 className={styles.stylizedSubheading}>Shopify’s mission is to make commerce better for everyone.</h2>
           <p className={styles.about}>
           To do that, we need to have ‘everyone’ building our product to ensure that we are innovating, inclusively redefining what an entrepreneur looks like, and creating the future of what commerce looks like.
           </p>
@@ -23,7 +23,7 @@ const About = () => (
           Diversity is an organizational imperative. Belonging is at the core of what we do. We continuously strive for all employees to experience this fundamental human need throughout their entire Shopify journey. Our vision is for all employees to feel Included. Valued. Heard.
           </p>
           <p className={styles.about}>
-          At Shopify, we're celebrating our merchants for Asian Pacific American Heritage Month. This online market is a global directory that features Shopify businesses to highlight our community, especially at a time where racial tension is high and businesses are affected due to COVID-19.
+          At Shopify, we’re celebrating our merchants for Asian Pacific American Heritage Month. This is a global directory that features Shopify businesses to highlight our community, especially at a time where racial tension is high and businesses are affected due to COVID-19.
           </p>
           <h2 className={styles.subheading}>How do I add a store to the directory?</h2>
           <p className={styles.about}>
